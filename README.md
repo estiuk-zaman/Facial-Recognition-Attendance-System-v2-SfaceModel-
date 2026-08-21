@@ -2,10 +2,6 @@
 
 A real-time, camera-based attendance system built with OpenCV — detects and recognizes faces live, then automatically logs attendance to a CSV file. Built and tuned to run smoothly on a low-spec, CPU-only laptop (no GPU required).
 
-## Demo
-
-*(add a screenshot or GIF of the live recognition window here)*
-
 ## Features
 
 - Real-time face detection and recognition via webcam
